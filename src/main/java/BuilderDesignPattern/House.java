@@ -9,7 +9,7 @@ package BuilderDesignPattern;
 // Builder Pattern defines the way of creating complex object.
 // It seperates the object construction logic and object representation
 
-//House getting quote from various vendor is the end outcome. The complex object here is House
+//Getting House Quote from various vendor is the end outcome. The complex object here is House
 
 public class House {
 
